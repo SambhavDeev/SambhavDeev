@@ -24,7 +24,7 @@ I'm a passionate final-year Computer Science and Engineering student with a keen
 
 ## 📫 How to reach me
 - 📧 Email: devsambhav5@gmail.com
-- 💼 LinkedIn: [Sambhav Dev]([https://www.linkedin.com/in/sambhavdeev](https://in.linkedin.com/in/sambhav-dev-93a9a422))
+- 💼 LinkedIn: [Sambhav Dev](https://www.linkedin.com/in/sambhav-dev-93a9a422)
 - 🦋 X: [@Sambhav_Dv](https://x.com/sambhav_dv)
 - 🏆 LeetCode: [Devtaa](https://leetcode.com/u/Devtaa/)
 
