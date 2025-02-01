@@ -18,7 +18,7 @@ I'm a passionate final-year Computer Science and Engineering student with a keen
 
 ## 💞️ I’m looking to collaborate on
 - 🌍 AI and ML-based projects
-- 🔥 Backend systems with Python and Flask
+- 🔥 Backend systems with Python, Flask, Django 
 - 📊 Data-driven projects in sports or other fields
 - 🌱 Web and Cloud-based applications
 
@@ -44,7 +44,7 @@ I once solved a coding problem on a live coding platform while riding a rollerco
 
 ### 🔧 Tools & Technologies I Use
 - **Languages**: Python, Java, C++
-- **Web**: Flask, SQLAlchemy, HTML, Bootstrap
+- **Web**: Flask, Django, SQLAlchemy, HTML, Bootstrap
 - **AI/ML**: TensorFlow, Keras, PyTorch
 - **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
