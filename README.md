@@ -5,7 +5,7 @@ I'm a passionate final-year Computer Science and Engineering student with a keen
 
 ## 👀 I’m interested in
 - 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Web Development (Flask, Django, Node.js, SQL)
+- 🌐 Web Development (Flask, Django, SQL)
 - 🔐 Backend Development & APIs
 - 🧑‍💻 Competitive Programming
 - 📊 Data Science & Analytics
